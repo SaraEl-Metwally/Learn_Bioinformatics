@@ -10,7 +10,7 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> <li> <a href="https://www.coursera.org/specializations/genomic-data-science"> <b> Link </b></a> </li> </td>
        </tr>
           <tr>
-            <td> Ben Langmead YouTube Playlists on Algorithms for DNA Sequencing, Indexing, Sketching and random data structures  </td>
+            <td> Ben Langmead YouTube Playlists on Algorithms for DNA Sequencing, <br> Indexing, Sketching and random data structures  </td>
             <td> <li> <a href="https://www.youtube.com/user/BenLangmead/playlists"> <b> Link </b></a> </li> </td>
        </tr>
             <tr>
