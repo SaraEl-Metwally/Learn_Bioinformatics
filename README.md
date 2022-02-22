@@ -39,9 +39,25 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
                  <li> <a href="https://angus.readthedocs.io/en/2019/"> <b> Training Link </b></a> </li>
                  <li> <a href="https://dib-training.readthedocs.io/en/pub/"> <b> Training Link </b></a> </li> </td>    
        </tr>
+         <tr>
+            <td> Micheal Schatz Github Repo  </td>
+            <td> <li> <a href="https://github.com/schatzlab"> <b> Link </b></a> </li> </td>
+       </tr>
        <tr>
             <td> Shomu's Bioinformatics with practical (SBWP) (for basics)   </td>
             <td> <li> <a href="https://www.youtube.com/watch?v=w-uk-_TOgR0&list=PLb0WW0k29aHrF8aZzK17ORTesZsd-lING"> <b> Link </b></a> </li> </td>
+       </tr>
+         <tr>
+            <td> Bioinformatics Data Skills: Reproducible and Robust Research <br> with Open Source Tools Book by Vince Buffalo   </td>
+            <td> <li> <a href="https://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372"> <b> Book Link on Amazon </b></a> </li> </td>
+       </tr>
+           <tr>
+            <td> Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins <br> by Andreas D. Baxevanis, Gary D. Bader, and David S. Wishart  </td>
+            <td> <li> <a href="https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582"> <b> Book Link on Amazon </b></a> </li> </td>
+       </tr>
+             <tr>
+            <td> Biostar Handbook  </td>
+            <td> <li> <a href="https://www.biostarhandbook.com/"> <b> Book Link </b></a> </li> </td>
        </tr>
   
   </table>
