@@ -59,5 +59,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Biostar Handbook  </td>
             <td> <li> <a href="https://www.biostarhandbook.com/"> <b> Book Link </b></a> </li> </td>
        </tr>
+               <tr>
+            <td> Arabic Materials  </td>
+            <td> <li> <a href="https://www.youtube.com/watch?v=GHqKnE6LL5Q&list=PLt0thylmbOcl45ysVO_z9Qw_n63pH1DpP"> <b> Link </b></a> </li> </td>
+       </tr>
   
   </table>
