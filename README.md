@@ -35,9 +35,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
        </tr>
               <tr>
             <td> C. Titus Brown Blog, Lab Training, Twitter account   </td>
-            <td> <li> <a href="http://ivory.idyll.org/blog/"> <b> Blog Link </b></a> </li> </td>
-            <td> <li> <a href="https://angus.readthedocs.io/en/2019/"> <b> Training Link </b></a> </li> </td>
-            <td> <li> <a href="https://dib-training.readthedocs.io/en/pub/"> <b> Training Link </b></a> </li> </td>    
+            <td> <li> <a href="http://ivory.idyll.org/blog/"> <b> Blog Link </b></a> </li>
+                 <li> <a href="https://angus.readthedocs.io/en/2019/"> <b> Training Link </b></a> </li>
+                 <li> <a href="https://dib-training.readthedocs.io/en/pub/"> <b> Training Link </b></a> </li> </td>    
        </tr>
        <tr>
             <td> Shomu's Bioinformatics with practical (SBWP) (for basics)   </td>
