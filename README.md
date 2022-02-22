@@ -30,8 +30,18 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> <li> <a href="https://bioinformaticsdotca.github.io/"> <b> Link </b></a> </li> </td>
        </tr>
             <tr>
-            <td> Bioinformatics Coach channel   </td>
+            <td> Bioinformatics Coach Channel   </td>
             <td> <li> <a href="https://www.youtube.com/channel/UCOJM9xzqDc6-43j2x_vXqCQ"> <b> Link </b></a> </li> </td>
+       </tr>
+              <tr>
+            <td> C. Titus Brown Blog, Lab Training, Twitter account   </td>
+            <td> <li> <a href="http://ivory.idyll.org/blog/"> <b> Blog Link </b></a> </li> </td>
+            <td> <li> <a href="https://angus.readthedocs.io/en/2019/"> <b> Training Link </b></a> </li> </td>
+            <td> <li> <a href="https://dib-training.readthedocs.io/en/pub/"> <b> Training Link </b></a> </li> </td>    
+       </tr>
+       <tr>
+            <td> Shomu's Bioinformatics with practical (SBWP) (for basics)   </td>
+            <td> <li> <a href="https://www.youtube.com/watch?v=w-uk-_TOgR0&list=PLb0WW0k29aHrF8aZzK17ORTesZsd-lING"> <b> Link </b></a> </li> </td>
        </tr>
   
   </table>
