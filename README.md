@@ -67,4 +67,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Telegram Channel for Mansoura University Medical Informatics Students  </td>
             <td> <li> <a href="https://t.me/+jqTpvLsIh5szNzc0"> <b> Channel Link </b></a> </li> </td>
        </tr>
+                   <tr>
+            <td> Bioinformatics by Open Source Society University  </td>
+            <td> <li> <a href="https://github.com/ossu/bioinformatics"> <b> Link </b></a> </li> </td>
+       </tr>
   </table>
