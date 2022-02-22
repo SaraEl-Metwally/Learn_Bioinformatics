@@ -48,7 +48,7 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> <li> <a href="https://www.youtube.com/watch?v=w-uk-_TOgR0&list=PLb0WW0k29aHrF8aZzK17ORTesZsd-lING"> <b> Link </b></a> </li> </td>
        </tr>
          <tr>
-            <td> Bioinformatics Data Skills: Reproducible and Robust Research <br> with Open Source Tools Book by Vince Buffalo   </td>
+            <td> Bioinformatics Data Skills: Reproducible and Robust Research <br> with Open Source Tools by Vince Buffalo   </td>
             <td> <li> <a href="https://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372"> <b> Book Link on Amazon </b></a> </li> </td>
        </tr>
            <tr>
