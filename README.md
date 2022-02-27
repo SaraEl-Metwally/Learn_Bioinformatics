@@ -63,6 +63,10 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Arabic Materials  </td>
             <td> <li> <a href="https://www.youtube.com/watch?v=GHqKnE6LL5Q&list=PLt0thylmbOcl45ysVO_z9Qw_n63pH1DpP"> <b> Link </b></a> </li> </td>
        </tr>
+       <tr>
+            <td> Galaxy Training  </td>
+            <td> <li> <a href="https://training.galaxyproject.org/training-material/"> <b> Link </b></a> </li> </td>
+       </tr>
                  <tr>
             <td> Telegram Channel for Mansoura University Medical Informatics Students  </td>
             <td> <li> <a href="https://t.me/+jqTpvLsIh5szNzc0"> <b> Channel Link </b></a> </li> </td>
