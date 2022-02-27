@@ -75,4 +75,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Bioinformatics by Open Source Society University  </td>
             <td> <li> <a href="https://github.com/ossu/bioinformatics"> <b> Link </b></a> </li> </td>
        </tr>
+                     <tr>
+            <td> strand-ngs.com  </td>
+            <td> <li> <a href="https://www.strand-ngs.com/files/manual/reference/toc.html"> <b> Link </b></a> </li> </td>
+       </tr>
   </table>
