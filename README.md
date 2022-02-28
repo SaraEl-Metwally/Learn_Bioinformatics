@@ -79,4 +79,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> strand-ngs.com  </td>
             <td> <li> <a href="https://www.strand-ngs.com/files/manual/reference/toc.html"> <b> Link </b></a> </li> </td>
        </tr>
+         <tr>
+            <td> Introduction to bioinformatics for RNA sequence analysis  </td>
+            <td> <li> <a href="https://rnabio.org/course/"> <b> Link </b></a> </li> </td>
+       </tr>
   </table>
