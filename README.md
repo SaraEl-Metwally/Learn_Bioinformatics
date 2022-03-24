@@ -83,4 +83,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Introduction to bioinformatics for RNA sequence analysis  </td>
             <td> <li> <a href="https://rnabio.org/course/"> <b> Link </b></a> </li> </td>
        </tr>
+         <tr>
+            <td> Informatics for RNA-seq: A web resource for analysis on the cloud  </td>
+            <td> <li> <a href="https://github.com/griffithlab/rnaseq_tutorial"> <b> Link </b></a> </li> </td>
+        </tr>
   </table>
