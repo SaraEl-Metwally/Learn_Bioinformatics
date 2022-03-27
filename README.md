@@ -87,4 +87,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> Informatics for RNA-seq: A web resource for analysis on the cloud  </td>
             <td> <li> <a href="https://github.com/griffithlab/rnaseq_tutorial"> <b> Link </b></a> </li> </td>
         </tr>
+        <tr>
+            <td> GaBI Academy: GaBI edX talks/playlists  </td>
+            <td> <li> <a href="https://www.youtube.com/channel/UCOnantUhzNxZxqn_SpIFTJg/playlists"> <b> Link </b></a> </li> </td>
+        </tr>
   </table>
