@@ -101,7 +101,10 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
         </tr>
         <tr>
           <td> Notes on Some Projects Analysis: Assembly, Virant Calling, Metagenomics, and Gene Expresstion </td>
-           <td> <li> <a href="https://github.com/njdbickhart/labnotes"> <b> Link </b></a> </li> </td>
-            
+           <td> <li> <a href="https://github.com/njdbickhart/labnotes"> <b> Link </b></a> </li> </td>   
        </tr>
+        <tr> 
+          <td> E-book by NYU Center For Genomics and Systems Biology (NGS Resources)   </td>
+          <td> <li> <a href="https://learn.gencore.bio.nyu.edu/"> <b> Link </b></a> </li> </td>  
+        </tr>
   </table>
