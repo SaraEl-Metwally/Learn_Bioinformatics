@@ -99,4 +99,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> learning vcf file </td>
             <td> <li> <a href="https://github.com/davetang/learning_vcf_file"> <b> Link </b></a> </li> </td>
         </tr>
+        <tr>
+          <td> Notes on Some Projects Analysis: Assembly, Virant Calling, Metagenomics, and Gene Expresstion </td>
+           <td> <li> <a href="https://github.com/njdbickhart/labnotes"> <b> Link </b></a> </li> </td>
+            
+       </tr>
   </table>
