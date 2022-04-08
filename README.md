@@ -91,4 +91,12 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
             <td> GaBI Academy: GaBI edX talks/playlists  </td>
             <td> <li> <a href="https://www.youtube.com/channel/UCOnantUhzNxZxqn_SpIFTJg/playlists"> <b> Link </b></a> </li> </td>
         </tr>
+          <tr>
+            <td> Learn SeqAn : an open source C++ library of efficient algorithms and data structures </td>
+            <td> <li> <a href="https://seqan.readthedocs.io/en/seqan-v1.4.2/Tutorial.html"> <b> Link </b></a> </li> </td>
+        </tr>
+         <tr>
+            <td> learning vcf file </td>
+            <td> <li> <a href="https://github.com/davetang/learning_vcf_file"> <b> Link </b></a> </li> </td>
+        </tr>
   </table>
