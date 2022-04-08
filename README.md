@@ -111,8 +111,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
           <td> Metagenomics Wiki   </td>
           <td> <li> <a href="https://www.metagenomics.wiki/pdf"> <b> Link </b></a> </li> </td>  
         </tr>
-  
-     <td> Statistical Rethinking   </td>
+          <tr>
+          <td> Statistical Rethinking   </td>
           <td> <li> <a href="https://xcelab.net/rm/statistical-rethinking/"> <b> Link </b></a> </li> </td>  
         </tr>
   </table>
