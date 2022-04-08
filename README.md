@@ -107,4 +107,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
           <td> E-book by NYU Center For Genomics and Systems Biology (NGS Resources)   </td>
           <td> <li> <a href="https://learn.gencore.bio.nyu.edu/"> <b> Link </b></a> </li> </td>  
         </tr>
+        <tr> 
+          <td> Metagenomics Wiki   </td>
+          <td> <li> <a href="https://www.metagenomics.wiki/pdf"> <b> Link </b></a> </li> </td>  
+        </tr>
   </table>
