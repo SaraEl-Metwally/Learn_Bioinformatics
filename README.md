@@ -115,4 +115,13 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
           <td> Statistical Rethinking   </td>
           <td> <li> <a href="https://xcelab.net/rm/statistical-rethinking/"> <b> Link </b></a> </li> </td>  
         </tr>
+          </tr>
+          <tr>
+          <td> Best practices for bulk and single cell RNA-seq data analysis   </td>
+          <td> <li> <a href="https://diytranscriptomics.com/"> <b> Link </b></a> </li> </td>  
+        </tr>
+          <tr>
+          <td> Bitesize Bioiniformatics </td>
+          <td> <li> <a href="https://www.youtube.com/watch?v=PPMyvIJJbeg&list=PLbiByRpDb_hP7b-I1GR4eEWCD2OqdZEg1"> <b> Link </b></a> </li> </td>  
+          </tr>
   </table>
