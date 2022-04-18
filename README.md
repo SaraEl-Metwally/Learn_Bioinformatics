@@ -128,4 +128,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Michael Edwards Playlists of Bioinformatics  </td>
              <td> <li> <a href="https://www.youtube.com/c/MichaelEdwardsbioinfo/playlists"> <b> Link </b></a> </li> </td>  
            </tr>
+           <tr>
+             <td> Online Tutorials and Webinar Library by EMBL-EBI Training   </td>
+             <td> <li> <a href="https://www.ebi.ac.uk/training/on-demand?facets=type:Online%20tutorial"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
