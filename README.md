@@ -136,4 +136,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Computational Genomics with R   </td>
              <td> <li> <a href="https://compgenomr.github.io/book/"> <b> Link </b></a> </li> </td>  
            </tr>
+           <tr>
+             <td> Computational Genomics Tutorial: Massey University course </td>
+             <td> <li> <a href="https://genomics.sschmeier.com/index.html"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
