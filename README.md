@@ -140,4 +140,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Computational Genomics Tutorial: Massey University course </td>
              <td> <li> <a href="https://genomics.sschmeier.com/index.html"> <b> Link </b></a> </li> </td>  
            </tr>
+           <tr>
+             <td> Chipster Tutorials: Single cell RNA-seq, Variant Calling, Microbial Community Analysis  </td>
+             <td> <li> <a href="https://www.youtube.com/c/ChipsterTutorials/playlists"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
