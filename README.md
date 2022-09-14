@@ -144,4 +144,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Chipster Tutorials: Single cell RNA-seq, Variant Calling, Microbial Community Analysis  </td>
              <td> <li> <a href="https://www.youtube.com/c/ChipsterTutorials/playlists"> <b> Link </b></a> </li> </td>  
            </tr>
+           <tr>
+             <td> Computational Genomics with R :online book  </td>
+             <td> <li> <a href="https://compgenomr.github.io/book/"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
