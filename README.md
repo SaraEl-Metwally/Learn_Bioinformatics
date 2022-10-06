@@ -145,7 +145,7 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> <li> <a href="https://www.youtube.com/c/ChipsterTutorials/playlists"> <b> Link </b></a> </li> </td>  
            </tr>
            <tr>
-             <td> Computational Genomics with R :online book  </td>
-             <td> <li> <a href="https://compgenomr.github.io/book/"> <b> Link </b></a> </li> </td>  
+             <td> The National Library of Medicine playlists: The NCBI Minute Webinars  </td>
+             <td> <li> <a href="https://www.youtube.com/user/NLMNIH/playlists"> <b> Link </b></a> </li> </td>  
            </tr>
   </table>
