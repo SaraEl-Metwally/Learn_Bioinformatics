@@ -148,4 +148,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> The National Library of Medicine playlists: The NCBI Minute Webinars  </td>
              <td> <li> <a href="https://www.youtube.com/user/NLMNIH/playlists"> <b> Link </b></a> </li> </td>  
            </tr>
+           <tr>
+             <td> Bioinformatics Course at SLU by the SGBC </td>
+             <td> <li> <a href="https://sgbc.github.io/course/"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
