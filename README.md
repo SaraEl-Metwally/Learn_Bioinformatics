@@ -152,4 +152,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Bioinformatics Course at SLU by the SGBC </td>
              <td> <li> <a href="https://sgbc.github.io/course/"> <b> Link </b></a> </li> </td>  
            </tr>
+            <tr>
+             <td> NGSeminars by NGSchool </td>
+             <td> <li> <a href="https://www.youtube.com/watch?v=TLpjSmm-FEM&list=PLj4Zs4bjsI9rtj3_0LcbJ3t6LUVQbAtAI"> <b> Link </b></a> </li> </td>  
+           </tr>
   </table>
