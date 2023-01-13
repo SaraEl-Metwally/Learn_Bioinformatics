@@ -161,4 +161,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> Bioinformatics Core by Cancer Research UK Cambridge Institute </td>
              <td> <li> <a href="https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core/training"> <b> Link </b></a> </li>  </td> 
            </tr>
+                      </tr>
+              <tr>
+             <td> Bioinformagician Channel </td>
+             <td> <li> <a href="https://www.youtube.com/@Bioinformagician"> <b> Link </b></a> </li>  </td> 
+           </tr>
   </table>
