@@ -160,10 +160,13 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <tr>
              <td> Bioinformatics Core by Cancer Research UK Cambridge Institute </td>
              <td> <li> <a href="https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core/training"> <b> Link </b></a> </li>  </td> 
-           </tr>
-                      </tr>
+           </tr>   
               <tr>
              <td> Bioinformagician Channel </td>
              <td> <li> <a href="https://www.youtube.com/@Bioinformagician"> <b> Link </b></a> </li>  </td> 
+             <tr>
+             <td> UCLA QCBio Collaboratory Channel </td>
+             <td> <li> <a href="https://www.youtube.com/@uclaqcbiocollaboratory3691/playlists"> <b> Link </b></a> </li>  </td> 
+           </tr>
            </tr>
   </table>
