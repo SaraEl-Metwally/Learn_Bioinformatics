@@ -159,7 +159,6 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
            </tr>
               <tr>
              <td> Bioinformatics Core by Cancer Research UK Cambridge Institute </td>
-             <td> <li> <a href="https://www.youtube.com/watch?v=TLpjSmm-FEM&list=PLj4Zs4bjsI9rtj3_0LcbJ3t6LUVQbAtAI"> <b> Link </b></a> </li> 
-                  <li> <a href="https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core/training"> <b> Slides and Materials </b></a></li> </td> 
+             <td> <li> <a href="https://www.cruk.cam.ac.uk/core-facilities/bioinformatics-core/training"> <b> Link </b></a> </li>  </td> 
            </tr>
   </table>
