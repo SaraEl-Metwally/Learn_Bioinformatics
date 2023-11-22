@@ -171,8 +171,8 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <tr>
               <td> Bioinformatics for Plant and Animal sciences </td>
               <td> <li> <a href="https://www.youtube.com/playlist?list=PLhR2Go-lh6X5A5WbiO3SPHuoWbwpNznUl"> <b> Link </b> </a> </li></td>
-
-               
              </tr>
+              <tr> Danny Arends Youtube Channel </tr>
+              <td> <li> <a href="https://www.youtube.com/@DannyArends"> <b> Link </b> </a> </li></td>
            </tr>
   </table>
