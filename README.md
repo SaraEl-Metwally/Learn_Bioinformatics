@@ -168,5 +168,11 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              <td> UCLA QCBio Collaboratory Channel </td>
              <td> <li> <a href="https://www.youtube.com/@uclaqcbiocollaboratory3691/playlists"> <b> Link </b></a> </li>  </td> 
            </tr>
+             <tr>
+              <td> Bioinformatics for Plant and Animal sciences </td>
+              <td> <li> <a href="https://www.youtube.com/playlist?list=PLhR2Go-lh6X5A5WbiO3SPHuoWbwpNznUl"> <b> Link </b> </a> </li></td>
+
+               
+             </tr>
            </tr>
   </table>
