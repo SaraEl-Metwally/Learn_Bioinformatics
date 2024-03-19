@@ -174,5 +174,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
              </tr>
               <td> Danny Arends Youtube Channel </td>
               <td> <li> <a href="https://www.youtube.com/@DannyArends"> <b> Link </b> </a> </li></td>
+              <tr>
+              <td> Bioinformatics for Biologists 2021 </td>
+              <td> <li> <a href="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/"> <b> Link </b> </a> </li></td> 
+              </tr>
            </tr>
   </table>
