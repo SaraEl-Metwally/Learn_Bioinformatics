@@ -178,5 +178,25 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <td> Bioinformatics for Biologists 2021 </td>
               <td> <li> <a href="https://biocorecrg.github.io/CRG_Bioinformatics_for_Biologists_2021/"> <b> Link </b> </a> </li></td> 
               </tr>
+              <tr>
+              <td> video materials for the courses teached by Prof. Nathaniel Jue at California State University </td>
+              <td> <li> <a href="https://www.youtube.com/@nathanieljue2315/playlists"> <b> Link </b> </a> </li></td> 
+              </tr>
+              <tr>
+              <td> Modern Statistics for Modern Biology </td>
+              <td> <li> <a href="https://web.stanford.edu/class/bios221/book/"> <b> Link </b> </a> </li></td> 
+              </tr>
+              <tr>
+              <td> Statistics for heterogeneous biological data </td>
+              <td> <li> <a href="https://web.stanford.edu/class/bios221/"> <b> Link </b> </a> </li></td> 
+              </tr>
+              <tr>
+              <td> BIOINFORMATICS 1 by The University of Edinburg in UK </td>
+              <td> <li> <a href="https://www.inf.ed.ac.uk/teaching/courses/bio1/"> <b> Link </b> </a> </li></td> 
+              </tr>
+              <tr>
+              <td> BIOINFORMATICS 2 by The University of Edinburg in UK </td>
+              <td> <li> <a href="https://www.inf.ed.ac.uk/teaching/courses/bio2/"> <b> Link </b> </a> </li></td> 
+              </tr>
            </tr>
   </table>
