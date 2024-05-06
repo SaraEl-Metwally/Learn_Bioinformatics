@@ -198,5 +198,13 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <td> BIOINFORMATICS 2 by The University of Edinburg in UK </td>
               <td> <li> <a href="https://www.inf.ed.ac.uk/teaching/courses/bio2/"> <b> Link </b> </a> </li></td> 
               </tr>
+              <tr>
+              <td> Biostatsquid: clear explanations and hands-on tutorials for analysing and interpreting biological data.  </td>
+              <td> <li> <a href="https://www.youtube.com/@biostatsquid/videos"> <b> Link </b> </a> </li></td> 
+              </tr>
+              <tr>
+              <td> Exploratory analysis of transcriptomics data in R.  </td>
+              <td> <li> <a href="https://tavareshugo.github.io/data-carpentry-rnaseq/"> <b> Link </b> </a> </li></td> 
+              </tr>
            </tr>
   </table>
