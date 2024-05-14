@@ -208,7 +208,7 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               </tr>
               <tr>
               <td> TileStats: courses in statistics and systems biology at the University of Skövde, Sweden by Prof. Andreas Tilevik.  </td>
-              <td> <li> <a href="https://tavareshugo.github.io/data-carpentry-rnaseq/"> <b> Link </b> </a> </li></td> 
+              <td> <li> <a href="https://www.youtube.com/@tilestats/playlists"> <b> Link </b> </a> </li></td> 
               </tr>
            </tr>
   </table>
