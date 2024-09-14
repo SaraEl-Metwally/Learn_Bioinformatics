@@ -210,5 +210,9 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <td> TileStats: courses in statistics and systems biology at the University of Skövde, Sweden by Prof. Andreas Tilevik.  </td>
               <td> <li> <a href="https://www.youtube.com/@tilestats/playlists"> <b> Link </b> </a> </li></td> 
               </tr>
+              <tr>
+              <td> A hands-on introduction to the computer-based analysis of genomic and biomolecular data from the Division of Biological Sciences, UCSD.  </td>
+              <td> <li> <a href="https://bioboot.github.io/bimm143_W20/"> <b> Link </b> </a> </li></td> 
+              </tr>
            </tr>
   </table>
