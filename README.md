@@ -214,5 +214,10 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <td> A hands-on introduction to the computer-based analysis of genomic and biomolecular data from the Division of Biological Sciences, UCSD.  </td>
               <td> <li> <a href="https://bioboot.github.io/bimm143_W20/"> <b> Link </b> </a> </li></td> 
               </tr>
+              <tr>
+              <td> Danny Arends Bioinformatics YouTube channel </td>
+              <td> <li> <a href="https://dannyarends.nl/bioinformatik/"> <b> Lectures Links </b> </a> </li>
+              <li> <a href="https://www.youtube.com/@DannyArends/playlists"> <b> Videos Links </b> </a> </li></td>
+              </tr>
            </tr>
   </table>
