@@ -219,5 +219,13 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               <td> <li> <a href="https://dannyarends.nl/bioinformatik/"> <b> Lectures Links </b> </a> </li>
               <li> <a href="https://www.youtube.com/@DannyArends/playlists"> <b> Videos Links </b> </a> </li></td>
               </tr>
+              <tr>
+              <td> Erik Lindahl YouTube channel </td>
+              <td> <li> <a href="https://www.youtube.com/@eriklindahl/videos"> <b> Link </b> </a> </li></td>
+              </tr>
+              <tr>
+              <td> Gerald Quon YouTube channel </td>
+              <td> <li> <a href="https://www.youtube.com/@quonbio/videos"> <b> Link </b> </a> </li></td>
+              </tr>
            </tr>
   </table>
