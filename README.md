@@ -229,7 +229,7 @@ Hi There, I always received questions like <b> <i> “Could you please help me t
               </tr>
               <tr>
               <td> Mike Saint-Antoine YouTube channel </td>
-              <td> <li> <a href="https://www.youtube.com/@MikeSaintAntoine/courses"> <b> Link </b> </a> </li></td>
+              <td> <li> <a href="https://www.youtube.com/@MikeSaintAntoine/playlists"> <b> Link </b> </a> </li></td>
               </tr>
            </tr>
   </table>
